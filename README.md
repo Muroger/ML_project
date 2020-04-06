@@ -7,4 +7,4 @@ ML 2020 Skoltech Final Project
 - Imblearn
 - XGBoost
 # Dataset
-Dataset is also available [here!](http://google.com) add a link to gdrive
+Dataset is also available [here!](https://drive.google.com/open?id=1TghCS5ayp03gW3yTuvZ5dfbQlem0x3GW)
